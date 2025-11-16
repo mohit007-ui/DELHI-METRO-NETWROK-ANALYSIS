@@ -116,7 +116,7 @@ The network shows rapid growth connecting Delhi with Noida, Gurugram & Faridabad
 
 🖼️ Dashboard Preview
 
-![Delhi Metro Dashboard](https://raw.githubusercontent.com/your-repo-path/DELHI_METRO_DASHBOARD.png)
+[![DELHI-METRO-NETWORK-ANALYSIS](https://github.com/mohit007-ui/DELHI-METRO-NETWROK-ANALYSIS/blob/main/DELHI_METRO_DASHBOARD.png)
 
 
 📂 Repository Structure
