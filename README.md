@@ -129,7 +129,7 @@ Station layout selector
 
 🎯 Insights Summary
 
-285 total stations across 13 metro lines.
+285 total stations across 13 metro lines(Till 2019).
 
 Majority of stations are elevated, followed by underground ones.
 
