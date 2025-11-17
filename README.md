@@ -6,6 +6,24 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+
+🧩 Business Problem Statement
+
+Delhi’s metro has expanded to multiple stations 🚉 across various lines, but this rapid growth has created challenges in identifying line imbalance, station congestion, and uneven connectivity. With 75% of stations elevated ⬆️, major lines like Blue, Violet, and Red carrying heavier loads, and sharp expansion spikes over the years 📈, planners struggle to optimize the network effectively.
+
+This project analyzes the Delhi Metro using Python to reveal:
+
+🗺️ Connectivity gaps & high-density station clusters
+
+🚇 Line-wise distribution & bottleneck points
+
+📊 Year-by-year expansion spikes
+
+🏗️ Layout distribution (Elevated / Underground / At-Grade)
+
+These insights support smarter route planning, capacity management, and network optimization for a more efficient Delhi Metro system.
+
+
 📘 Project Overview
 
 This project provides a comprehensive Delhi Metro Network Analysis using Python, SQL, and Power BI.
